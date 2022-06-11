@@ -1,0 +1,13 @@
+.container {
+    display: fixed;
+    background-color: #343a40;
+    color: white;
+    margin: 0;
+    padding-left: auto;
+    padding-top: 7px;
+    height: 5.8vh;
+}
+
+.text {
+    padding-left: 7vw;
+}

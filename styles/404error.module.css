@@ -1,0 +1,19 @@
+.error {
+    text-align: center;
+    margin-top: 25vh;
+    margin-bottom: 15vh;
+    height: 45vh;
+}
+
+.status {
+    height: 150px;
+    margin-bottom: 40px;
+}
+
+.message {
+    color: grey;
+}
+
+.text {
+    margin-bottom: 25px;
+}

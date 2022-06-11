@@ -1,0 +1,191 @@
+@import url("https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap");
+
+.container {
+    height: 85vh;
+    background-color: #ffffff;
+}
+
+.layout {
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    background-image: url(/Images/store_image.png);
+    display: block;
+    height: 85vh;
+    width: 13vw;
+    text-align: center;
+    border-right-width: 1px;
+    border-right-color: #343a40;
+    border-right-style: dashed;
+}
+
+.layoutText {
+    margin-top: 5vh;
+    font-weight: 800;
+    font-size: 50px;
+    color: #343a40;
+}
+
+.text {
+    color: #303952;
+    font-size: x-large;
+    font-weight: 800;
+    font-family: "East Sea Dokdo", cursive;
+    margin: 0;
+}
+
+.img {
+    border-radius: 10px;
+    margin-top: 5vh;
+    height: 25vh;
+}
+
+.topLine {
+    display: flex;
+    list-style-type: none;
+    margin-bottom: 0;
+}
+
+.bottomLine {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.firstBox {
+    text-align: center;
+    margin-left: 3vw;
+}
+
+.secondBox {
+    text-align: center;
+    margin-left: 8vw;
+}
+
+.thirdBox {
+    text-align: center;
+    margin-left: 8vw;
+}
+
+.fourthBox {
+    text-align: center;
+    margin-left: 8vw;
+}
+
+.fifthBox {
+    text-align: center;
+    margin-left: 3vw;
+}
+
+.sixthBox {
+    text-align: center;
+    margin-left: 8vw;
+}
+
+.seventhBox {
+    text-align: center;
+    margin-left: 8vw;
+}
+
+.eighthBox {
+    text-align: center;
+    margin-left: 8vw;
+}
+
+.boxLink {
+    border: none;
+    background-color: white;
+    text-decoration: none !important;
+}
+
+.link {
+    color: #1e90ff;
+}
+
+.lineBox {
+    display: flex;
+}
+
+@media screen and (max-width: 800px) {
+    .container {
+        height: auto;
+    }
+
+    .layout {
+        display: flex;
+    }
+
+    .title {
+        background-image: url(/Images/store_small_img.png);
+        height: 200vh;
+    }
+
+    .layoutText {
+        margin-top: 5vh;
+        font-weight: 800;
+        font-size: 50px;
+        color: #343a40;
+    }
+
+    .img {
+        margin-top: 10vh;
+    }
+
+    .topLine {
+        display: block;
+    }
+
+    .bottomLine {
+        display: block;
+    }
+
+    .lineBox {
+        align-items: center;
+        justify-content: center;
+        margin-left: 6vw;
+    }
+
+    .firstBox {
+        text-align: center;
+    }
+
+    .secondBox {
+        text-align: center;
+    }
+
+    .thirdBox {
+        text-align: center;
+        margin: 0;
+    }
+
+    .fourthBox {
+        text-align: center;
+    }
+
+    .fifthBox {
+        text-align: center;
+        margin: 0;
+    }
+
+    .sixthBox {
+        text-align: center;
+    }
+
+    .seventhBox {
+        text-align: center;
+        margin: 0;
+    }
+
+    .eighthBox {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .lineBox {
+        margin-left: 1vw;
+    }
+}
