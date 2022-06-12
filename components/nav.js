@@ -6,11 +6,9 @@ const NavMenu = () => {
         <Navbar bg="dark" variant="dark">
             <Container>
                 <Navbar.Brand className={navStyles.logo} href="/">
-                    <p style={{ marginBottom: 7 }} class="text-light bg-dark">
-                        AWESOME FOOD STORE
-                    </p>
+                    <p style={{ marginBottom: 7 }}>AWESOME FOOD STORE</p>
                 </Navbar.Brand>
-                <Nav className="nav-section">
+                <Nav>
                     <Row bg="light">
                         <Col>
                             <Nav.Item>
