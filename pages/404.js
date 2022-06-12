@@ -19,7 +19,8 @@ const Custom404 = () => {
                 404 ERROR
             </h3>
             <img className={errorStyles.status} src="/Images/error404.png" alt="404 Error" />
-            <p className={errorStyles.message}>페이지를 찾을수 없습니다.</p>
+            <p className={errorStyles.message}>페이지를 찾을 수 없습니다.</p>
+            <p className={errorStyles.message}>5초 후 메인 페이지로 이동됩니다.</p>
         </div>
     );
 };

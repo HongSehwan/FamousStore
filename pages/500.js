@@ -18,7 +18,8 @@ const Custom500 = () => {
             <h3 color="#fff" className={errorStyles.status}>
                 500 에러
             </h3>
-            <p className={errorStyles.message}>페이지를 찾을수 없습니다.</p>
+            <p className={errorStyles.message}>페이지를 찾을 수 없습니다.</p>
+            <p className={errorStyles.message}>5초 후 메인 페이지로 이동됩니다.</p>
         </div>
     );
 };
