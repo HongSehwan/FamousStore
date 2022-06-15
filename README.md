@@ -1,34 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h4>메인(About) 페이지1</h4>
+<img width="1440" alt="스크린샷 2022-06-15 오후 8 16 38" src="https://user-images.githubusercontent.com/85854164/173816336-d27d4456-b6b1-4fdf-a704-ad40646c1e5f.png">
 
-## Getting Started
+<h4>메인(About) 페이지2</h4>
+<img width="1440" alt="스크린샷 2022-06-15 오후 8 16 45" src="https://user-images.githubusercontent.com/85854164/173816348-eca1db1d-f079-4754-a946-5c68b28de1f0.png">
 
-First, run the development server:
+<h4>Store 페이지</h4>
+<img width="1440" alt="스크린샷 2022-06-15 오후 8 16 52" src="https://user-images.githubusercontent.com/85854164/173816356-72748a40-143f-4d4f-bbb3-469ff72c60f8.png">
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<h4>Store 페이지 Modal</h4>
+<img width="1440" alt="스크린샷 2022-06-15 오후 8 16 59" src="https://user-images.githubusercontent.com/85854164/173816388-54920c02-8437-47cd-9872-059d21b0cebb.png">
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h4>Store 페이지 Modal - 반응형</h4>
+<img width="520" alt="스크린샷 2022-06-15 오후 8 17 15" src="https://user-images.githubusercontent.com/85854164/173816404-f4439d24-3125-4b91-a8b5-4a049e493e8a.png">
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<h4>메인(About) 페이지1 - 반응형</h4>
+<img width="520" alt="스크린샷 2022-06-15 오후 8 17 21" src="https://user-images.githubusercontent.com/85854164/173816423-cf52a9ee-2dac-4130-be78-540eecda4d90.png">
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h4>메인(About) 페이지2 - 반응형</h4>
+<img width="520" alt="스크린샷 2022-06-15 오후 8 17 33" src="https://user-images.githubusercontent.com/85854164/173816448-e4a32c3b-8f2c-422f-ba86-5c8f808052cc.png">
